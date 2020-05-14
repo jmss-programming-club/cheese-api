@@ -1,0 +1,26 @@
+{
+  "name": "cheese-api",
+  "version": "1.0.0",
+  "description": "A comprehensive cheese API",
+  "main": "api/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmss-programming-club/cheese-api.git"
+  },
+  "keywords": [
+    "cheese",
+    "api"
+  ],
+  "author": "JMSS Programming Club",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmss-programming-club/cheese-api/issues"
+  },
+  "homepage": "https://github.com/jmss-programming-club/cheese-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
